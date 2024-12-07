@@ -73,7 +73,7 @@ body {
 .blog-card-title {
     font-size: 2.4rem;
     font-weight: 800;
-    color: var(--Gray500);
+    color: var(--Gray950);
     margin-bottom: 1.6rem;
     transition: color 0.3s;
 }
